@@ -1,0 +1,817 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/obj/Debug/net7.0/scopedcss/projectbundle/Clinica_App.bundle.scp.css",
+      "PackagePath": "staticwebassets/Clinica_App.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/about.jpg",
+      "PackagePath": "staticwebassets/img/about.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/img/apple-touch-icon.png"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/departments-1.jpg",
+      "PackagePath": "staticwebassets/img/departments-1.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/departments-2.jpg",
+      "PackagePath": "staticwebassets/img/departments-2.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/departments-3.jpg",
+      "PackagePath": "staticwebassets/img/departments-3.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/departments-4.jpg",
+      "PackagePath": "staticwebassets/img/departments-4.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/departments-5.jpg",
+      "PackagePath": "staticwebassets/img/departments-5.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/doctors/doctors-1.jpg",
+      "PackagePath": "staticwebassets/img/doctors/doctors-1.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/doctors/doctors-2.jpg",
+      "PackagePath": "staticwebassets/img/doctors/doctors-2.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/doctors/doctors-3.jpg",
+      "PackagePath": "staticwebassets/img/doctors/doctors-3.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/doctors/doctors-4.jpg",
+      "PackagePath": "staticwebassets/img/doctors/doctors-4.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/favicon.png",
+      "PackagePath": "staticwebassets/img/favicon.png"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/gallery/gallery-1.jpg",
+      "PackagePath": "staticwebassets/img/gallery/gallery-1.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/gallery/gallery-2.jpg",
+      "PackagePath": "staticwebassets/img/gallery/gallery-2.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/gallery/gallery-3.jpg",
+      "PackagePath": "staticwebassets/img/gallery/gallery-3.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/gallery/gallery-4.jpg",
+      "PackagePath": "staticwebassets/img/gallery/gallery-4.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/gallery/gallery-5.jpg",
+      "PackagePath": "staticwebassets/img/gallery/gallery-5.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/gallery/gallery-6.jpg",
+      "PackagePath": "staticwebassets/img/gallery/gallery-6.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/gallery/gallery-7.jpg",
+      "PackagePath": "staticwebassets/img/gallery/gallery-7.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/gallery/gallery-8.jpg",
+      "PackagePath": "staticwebassets/img/gallery/gallery-8.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/hero-bg.jpg",
+      "PackagePath": "staticwebassets/img/hero-bg.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/logo.png",
+      "PackagePath": "staticwebassets/img/logo.png"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/testimonials/testimonials-1.jpg",
+      "PackagePath": "staticwebassets/img/testimonials/testimonials-1.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/testimonials/testimonials-2.jpg",
+      "PackagePath": "staticwebassets/img/testimonials/testimonials-2.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/testimonials/testimonials-3.jpg",
+      "PackagePath": "staticwebassets/img/testimonials/testimonials-3.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/testimonials/testimonials-4.jpg",
+      "PackagePath": "staticwebassets/img/testimonials/testimonials-4.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/img/testimonials/testimonials-5.jpg",
+      "PackagePath": "staticwebassets/img/testimonials/testimonials-5.jpg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/scss/Readme.txt",
+      "PackagePath": "staticwebassets/scss/Readme.txt"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/animate.css/animate.compat.css",
+      "PackagePath": "staticwebassets/vendor/animate.css/animate.compat.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/animate.css/animate.css",
+      "PackagePath": "staticwebassets/vendor/animate.css/animate.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/animate.css/animate.min.css",
+      "PackagePath": "staticwebassets/vendor/animate.css/animate.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap-icons/bootstrap-icons.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/bootstrap-icons.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap-icons/bootstrap-icons.json",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/bootstrap-icons.json"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap-icons/bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/bootstrap-icons.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap-icons/bootstrap-icons.scss",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/bootstrap-icons.scss"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap-icons/fonts/bootstrap-icons.woff",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/bootstrap/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/boxicons/css/animations.css",
+      "PackagePath": "staticwebassets/vendor/boxicons/css/animations.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/boxicons/css/boxicons.css",
+      "PackagePath": "staticwebassets/vendor/boxicons/css/boxicons.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/boxicons/css/boxicons.min.css",
+      "PackagePath": "staticwebassets/vendor/boxicons/css/boxicons.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/boxicons/css/transformations.css",
+      "PackagePath": "staticwebassets/vendor/boxicons/css/transformations.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/boxicons/fonts/boxicons.eot",
+      "PackagePath": "staticwebassets/vendor/boxicons/fonts/boxicons.eot"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/boxicons/fonts/boxicons.svg",
+      "PackagePath": "staticwebassets/vendor/boxicons/fonts/boxicons.svg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/boxicons/fonts/boxicons.ttf",
+      "PackagePath": "staticwebassets/vendor/boxicons/fonts/boxicons.ttf"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/boxicons/fonts/boxicons.woff",
+      "PackagePath": "staticwebassets/vendor/boxicons/fonts/boxicons.woff"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/boxicons/fonts/boxicons.woff2",
+      "PackagePath": "staticwebassets/vendor/boxicons/fonts/boxicons.woff2"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/css/all.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/all.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/css/all.min.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/all.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/css/brands.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/brands.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/css/brands.min.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/brands.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/css/fontawesome.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/fontawesome.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/css/fontawesome.min.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/fontawesome.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/css/regular.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/regular.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/css/regular.min.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/regular.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/css/solid.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/solid.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/css/solid.min.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/solid.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/css/svg-with-js.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/svg-with-js.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/css/svg-with-js.min.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/svg-with-js.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/css/v4-font-face.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/v4-font-face.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/css/v4-font-face.min.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/v4-font-face.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/css/v4-shims.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/v4-shims.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/css/v4-shims.min.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/v4-shims.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/css/v5-font-face.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/v5-font-face.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/css/v5-font-face.min.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/v5-font-face.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/webfonts/fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/fontawesome-free/webfonts/fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/glightbox/css/glightbox.css",
+      "PackagePath": "staticwebassets/vendor/glightbox/css/glightbox.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/glightbox/css/glightbox.min.css",
+      "PackagePath": "staticwebassets/vendor/glightbox/css/glightbox.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/glightbox/css/plyr.css",
+      "PackagePath": "staticwebassets/vendor/glightbox/css/plyr.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/glightbox/css/plyr.min.css",
+      "PackagePath": "staticwebassets/vendor/glightbox/css/plyr.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/glightbox/js/glightbox.js",
+      "PackagePath": "staticwebassets/vendor/glightbox/js/glightbox.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/glightbox/js/glightbox.min.js",
+      "PackagePath": "staticwebassets/vendor/glightbox/js/glightbox.min.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/php-email-form/validate.js",
+      "PackagePath": "staticwebassets/vendor/php-email-form/validate.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/purecounter/purecounter_vanilla.js",
+      "PackagePath": "staticwebassets/vendor/purecounter/purecounter_vanilla.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/purecounter/purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets/vendor/purecounter/purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/remixicon/remixicon.css",
+      "PackagePath": "staticwebassets/vendor/remixicon/remixicon.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/remixicon/remixicon.eot",
+      "PackagePath": "staticwebassets/vendor/remixicon/remixicon.eot"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/remixicon/remixicon.glyph.json",
+      "PackagePath": "staticwebassets/vendor/remixicon/remixicon.glyph.json"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/remixicon/remixicon.less",
+      "PackagePath": "staticwebassets/vendor/remixicon/remixicon.less"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/remixicon/remixicon.svg",
+      "PackagePath": "staticwebassets/vendor/remixicon/remixicon.svg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/remixicon/remixicon.symbol.svg",
+      "PackagePath": "staticwebassets/vendor/remixicon/remixicon.symbol.svg"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/remixicon/remixicon.ttf",
+      "PackagePath": "staticwebassets/vendor/remixicon/remixicon.ttf"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/remixicon/remixicon.woff",
+      "PackagePath": "staticwebassets/vendor/remixicon/remixicon.woff"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/remixicon/remixicon.woff2",
+      "PackagePath": "staticwebassets/vendor/remixicon/remixicon.woff2"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/swiper/swiper-bundle.min.css",
+      "PackagePath": "staticwebassets/vendor/swiper/swiper-bundle.min.css"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/swiper/swiper-bundle.min.js",
+      "PackagePath": "staticwebassets/vendor/swiper/swiper-bundle.min.js"
+    },
+    {
+      "Id": "/Users/marwaalahdab/Desktop/Clinica/Clinica_App/wwwroot/vendor/swiper/swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets/vendor/swiper/swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Clinica_App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Clinica_App.props",
+      "PackagePath": "build\\Clinica_App.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Clinica_App.props",
+      "PackagePath": "buildMultiTargeting\\Clinica_App.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Clinica_App.props",
+      "PackagePath": "buildTransitive\\Clinica_App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
