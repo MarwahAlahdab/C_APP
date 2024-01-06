@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{BBB38415-DA4E-4858-B80F-E0572C94261D}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Clinica__App PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/js/site.js">
+    <Files>
+      <File FileName="Models/ApplicationUser.cs" Line="6" Column="45" />
+      <File FileName="Data/ClinicaDbContext.cs" Line="6" Column="1" />
+      <File FileName="Models/DTOs/UserDto.cs" Line="4" Column="2" />
+      <File FileName="Models/DTOs/RegisterUserDto.cs" Line="14" Column="30" />
+      <File FileName="Models/DTOs/LoginDto.cs" Line="15" Column="1" />
+      <File FileName="Models/Interfaces/IUser.cs" Line="13" Column="23" />
+      <File FileName="Models/Services/IdentityUserService.cs" Line="35" Column="15" />
+      <File FileName="Controllers/AuthController.cs" Line="33" Column="19" />
+      <File FileName="Program.cs" Line="66" Column="1" />
+      <File FileName="Views/Register.cshtml" Line="13" Column="11" />
+      <File FileName="Views/Auth/Login.cshtml" Line="25" Column="1" />
+      <File FileName="appsettings.json" Line="3" Column="23" />
+      <File FileName="Views/Home/Index.cshtml" Line="18" Column="34" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="7" Column="80" />
+      <File FileName="wwwroot/css/site.css" Line="1741" Column="27" />
+      <File FileName="wwwroot/assets/js/main.js" Line="14" Column="40" />
+      <File FileName="wwwroot/js/site.js" Line="223" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Clinica_App" expanded="True">
+            <Node name="Clinica_App" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="DTOs" expanded="True" />
+                <Node name="Interfaces" expanded="True" />
+                <Node name="Services" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Auth" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" selected="True">
+                <Node name="assets" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
